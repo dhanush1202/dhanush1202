@@ -18,4 +18,4 @@
 
 <!-- <p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dhanush1202&show_icons=true&locale=en" alt="dhanush1202" /></p> -->
 
-<p>&nbsp;<img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush1202&" alt="dhanush1202" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=dhanush1202&" alt="dhanush1202" /></p>
