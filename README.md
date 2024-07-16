@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Dhanush G</h1>
-<h3 align="center">A 4th year IT student from VNRVJIET, Hyderabad</h3>
+<h3 align="justify">I am currently pursuing Bachelor’s degree in the department of IT at VNRVJIET. I worked as a quality assurance tester at T-Katal and as Cyber security and Ethical hacking intern at Supraja Technologies. Currently working as Software Developer at Aspireup. I am interested in Cyber security and Web development. I’ve always been a good problem solver, an independent introvert, and a technophile obsessed with the latest devices.
+
+I’m familiar with a variety of programming languages and skills, including Python, C, CPP, Java, HTML, and CSS, JS, React.js, Node.js, Express.js, MongoDB, AWS, Flutter, Android, Burp Suite but I’m always adding new skills to my repertoire. 
+I am confident that my skill set, competitive nature, and passion will give a positive edge to my career. I’m open to learn and interact with other students and professionals in the IT field, so feel free to connect!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
